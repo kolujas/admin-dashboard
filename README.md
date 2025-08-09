@@ -2,7 +2,7 @@
 
 A responsive dashboard layout built with modern CSS, focusing on CSS Grid and Flexbox. This project is part of The Odin Project's Full Stack JavaScript curriculum.
 
-[Live Demo](https://kolujas.github.io/admin-dashboard/)
+[Live Demo](https://admin-dashboard-sigma-nine-51.vercel.app/)
 
 ## About The Project
 
